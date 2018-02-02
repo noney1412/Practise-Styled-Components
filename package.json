@@ -14,9 +14,11 @@
   "dependencies": {
     "babel-plugin-styled-components": "^1.1.5",
     "next": "latest",
+    "re-bulma": "^0.4.5",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "styled-components": "^2.1.0"
+    "styled-components": "^2.1.0",
+    "uigradients": "^0.2.1"
   },
   "license": "ISC"
 }
